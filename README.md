@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @amena-pinky
 - 👀 I’m interested in a web-devoloper as well as a software engineer. Right now my short time goal is to be a web-devoloper. i love to explore new things.
+- i'm a CSE department student. im trying to learn new things.
 - 🌱 I’m currently learning c and c++.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
